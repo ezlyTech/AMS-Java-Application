@@ -1,0 +1,15 @@
+John Doe,01,John01,jd,DIT,2d,1,john@gmail.com
+Amie Delos Santos,02,Amie02,ads,DIT,2d,1,amie@gmail.com
+Erice Dela Cruz,03,Erice03,edc,DIT,2d,1,erice@gmail.com
+Jarvs Laza,04,Jarvs04,jl,DIT,2d,1,jarvs@gmail.com
+Linda Reyes,05,Linda05,lr,DIT,2d,1,linda@gmail.com
+Vanessa Veron Manalo,06,Vanessa06,vvm,DIT,2d,1,vanessa@gmail.com
+Shayne Mendoza,07,Shayne07,sm,DIT,2d,1,shayne@gmail.com
+Rayen Lim,08,Rayen08,rl,DIT,2d,1,rayen@gmail.com
+Shania Deus,09,Shania09,sd,DIT,2d,1,shania@gmail.com
+Jessica Reyes,10,Jessica10,jr,DIT,2d,1,jessica@gmail.com
+William Ronmer,11,William11,wr,DIT,2d,1,william@gmail.com
+Jeremy Santos,12,Jeremy12,js,DIT,2d,1,jeremy@gmail.com
+Angelo Mariano,13,Angelo13,am,DIT,2d,1,angelo@gmail.com
+Angelica Sanchez,14,Angelica14,as,DIT,2d,1,angelica@gmail.com
+Jane Marquez,15,Jane14,jm,DIT,2d,1,jane@gmail.comRicci Santos,18,ricci18,rs,DIT,2d,1,ricci@gmail.com
